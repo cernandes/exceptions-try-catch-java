@@ -10,7 +10,7 @@ saque da conta. Implemente a conta bancária conforme o diagrama de classe:
 
 ### Diagrama de classes
 <p align="center">
-  <img src="./assets/img/08-heranca-e-polimorfismo.jpg" width="350" title="hover text" alt="class diagram">
+  <img src="https://raw.githubusercontent.com/cernandes/exceptions-try-catch-java/master/assets/img/class-diagram.jpg" width="350" title="hover text" alt="class diagram">
 </p>
 
 #### caso #1
@@ -19,7 +19,7 @@ saque da conta. Implemente a conta bancária conforme o diagrama de classe:
 Number: <span style="color: red">8021</span><br>
 Holder: <span style="color: red">Maria</span><br>
 Initial balance: <span style="color: red">500.00</span><br>
-Withdraw limit: <span style="color: red">300.00</span><br><br>
+Withdraw limit: <span style="color: red">300.00</span><br>
 
 Enter the amount for withdraw: <span style="color: red">100.00</span><br>
 
@@ -31,7 +31,7 @@ Enter the amount for withdraw: <span style="color: red">100.00</span><br>
 Number: <span style="color: red">8021</span><br>
 Holder: <span style="color: red">Maria</span><br>
 Initial balance: <span style="color: red">500.00</span><br>
-Withdraw limit: <span style="color: red">300.00</span><br><br>
+Withdraw limit: <span style="color: red">300.00</span><br>
 
 Enter the amount for withdraw: <span style="color: red">400.00</span><br>
 
@@ -43,7 +43,7 @@ Enter the amount for withdraw: <span style="color: red">400.00</span><br>
 Number: <span style="color: red">8021</span><br>
 Holder: <span style="color: red">Maria</span><br>
 Initial balance: <span style="color: red">500.00</span><br>
-Withdraw limit: <span style="color: red">300.00</span><br><br>
+Withdraw limit: <span style="color: red">300.00</span><br>
 
 Enter the amount for withdraw: <span style="color: red">800.00</span><br>
 
@@ -55,7 +55,7 @@ Enter the amount for withdraw: <span style="color: red">800.00</span><br>
 Number: <span style="color: red">8021</span><br>
 Holder: <span style="color: red">Maria</span><br>
 Initial balance: <span style="color: red">200.00</span><br>
-Withdraw limit: <span style="color: red">300.00</span><br><br>
+Withdraw limit: <span style="color: red">300.00</span><br>
 
 Enter the amount for withdraw: <span style="color: red">250.00</span><br>
 
