@@ -1,7 +1,7 @@
 # Tratamento de exceções
 
 ### Objetivo
-Exercício prático de POO para desenvolver os conceitos de tratamento de exceções em Java com o uso dos blocos de ```try``` e ```catch``` tratando as possiveis exceções que possam ocorrer durante a execução do programa.
+Exercício prático de POO para desenvolver os conceitos de tratamento de exceções em Java com o uso dos blocos de ```try``` e ```catch``` tratando as possíveis exceções que possam ocorrer durante a execução do programa.
 
 ### Exercício proposto
 Fazer um programa para ler os dados de uma conta bancária e depois realizar um saque nesta conta bancária, mostrando o novo saldo. 
